@@ -1,5 +1,5 @@
 # FileFormatAnalyzer
-For .PNG Files
+For .PNG files
 
 ## Collaborators:
 
