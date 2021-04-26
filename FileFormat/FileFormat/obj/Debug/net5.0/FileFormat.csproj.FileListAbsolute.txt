@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.exe
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.deps.json
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.runtimeconfig.json
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.dll
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\ref\FileFormat.dll
+C:\Users\Reema\source\repos\FileFormat\FileFormat\bin\Debug\net5.0\FileFormat.pdb
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.AssemblyInfo.cs
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.dll
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\ref\FileFormat.dll
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.pdb
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.genruntimeconfig.cache
+C:\Users\Reema\source\repos\FileFormat\FileFormat\obj\Debug\net5.0\FileFormat.csprojAssemblyReference.cache
