@@ -1,7 +1,7 @@
 # FileFormatAnalyzer
 For .PNG Files
 
-## collaborators:
+## Collaborators:
 
 - Maryam Alraddadi
 - Raneen Alzafrani
