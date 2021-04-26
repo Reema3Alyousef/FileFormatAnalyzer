@@ -4,7 +4,7 @@ For .PNG files
 ## Collaborators:
 
 - Maryam Alraddadi
-- Raneen Alzafrani
+- Raneen Alzafarani
 - Reema Alyousef
 - Fatima Alqahtani
 - Batool Alghamdi
